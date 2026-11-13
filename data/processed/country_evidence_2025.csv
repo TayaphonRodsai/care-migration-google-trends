@@ -1,0 +1,174 @@
+,work_2025,other_education_2025,care_route_2025,E1_flow,E2_training,E3_care,n_evidence,excluded_because,selected
+Afghanistan,247.0,179.0,426.0,False,False,False,0,,False
+Albania,6291.0,237.0,6528.0,True,False,False,1,,False
+Algeria,552.0,669.0,1221.0,False,False,False,0,,False
+Andorra,1.0,0.0,1.0,False,False,False,0,,False
+Angola,20.0,10.0,30.0,False,False,False,0,,False
+Antigua and Barbuda,1.0,0.0,1.0,False,False,False,0,,False
+Argentina,277.0,140.0,417.0,False,False,False,0,,False
+Armenia,184.0,63.0,247.0,False,False,False,0,,False
+Australia,602.0,8.0,610.0,False,False,False,0,,False
+Azerbaijan,698.0,541.0,1239.0,False,False,False,0,,False
+Bahamas,2.0,0.0,2.0,False,False,False,0,,False
+Bahrain,5.0,0.0,5.0,False,False,False,0,,False
+Bangladesh,287.0,60.0,347.0,False,False,False,0,,False
+Barbados,2.0,1.0,3.0,False,False,False,0,,False
+Belarus,442.0,37.0,479.0,False,False,False,0,,False
+Belize,2.0,1.0,3.0,False,False,False,0,,False
+Benin,57.0,89.0,146.0,False,False,False,0,,False
+Bhutan,3.0,1.0,4.0,False,False,False,0,,False
+Bolivia,88.0,45.0,133.0,False,False,False,0,,False
+Bosnia and Herzegovina,5895.0,127.0,6022.0,True,False,True,2,,True
+Botswana,9.0,0.0,9.0,False,False,False,0,,False
+Brazil,1499.0,291.0,1790.0,False,False,False,0,,False
+British overseas countries and territories,4.0,1.0,5.0,False,False,False,0,,False
+Brunei Darussalam,2.0,0.0,2.0,False,False,False,0,,False
+Burkina Faso,44.0,92.0,136.0,False,False,False,0,,False
+Burundi,3.0,12.0,15.0,False,False,False,0,,False
+Cabo Verde,1.0,0.0,1.0,False,False,False,0,,False
+Cambodia,7.0,2.0,9.0,False,False,False,0,,False
+Cameroon,382.0,1920.0,2302.0,True,True,False,2,,True
+Canada,920.0,11.0,931.0,False,False,False,0,,False
+Central African Republic,1.0,1.0,2.0,False,False,False,0,,False
+Chad,6.0,5.0,11.0,False,False,False,0,,False
+Chile,410.0,119.0,529.0,False,False,False,0,,False
+China,5041.0,688.0,5729.0,True,False,False,1,Google not the main search engine,False
+Colombia,1194.0,286.0,1480.0,False,False,False,0,,False
+Comoros,0.0,0.0,0.0,False,False,False,0,,False
+Congo,11.0,14.0,25.0,False,False,False,0,,False
+Cook Islands,0.0,0.0,0.0,False,False,False,0,,False
+Costa Rica,58.0,6.0,64.0,False,False,False,0,,False
+Cuba,76.0,16.0,92.0,False,False,False,0,,False
+Côte d’Ivoire,50.0,71.0,121.0,False,False,False,0,,False
+Democratic Republic of the Congo,19.0,32.0,51.0,False,False,False,0,,False
+Djibouti,0.0,0.0,0.0,False,False,False,0,,False
+Dominica,10.0,3.0,13.0,False,False,False,0,,False
+Dominican Republic,31.0,22.0,53.0,False,False,False,0,,False
+Ecuador,212.0,175.0,387.0,False,False,False,0,,False
+Egypt,1448.0,364.0,1812.0,False,False,False,0,,False
+El Salvador,52.0,78.0,130.0,False,False,False,0,,False
+Equatorial Guinea,0.0,1.0,1.0,False,False,False,0,,False
+Eritrea,13.0,3.0,16.0,False,False,False,0,,False
+Eswatini,4.0,0.0,4.0,False,False,False,0,,False
+Ethiopia,104.0,32.0,136.0,False,False,False,0,,False
+Federated States of Micronesia,0.0,0.0,0.0,False,False,False,0,,False
+Fiji,1.0,0.0,1.0,False,False,False,0,,False
+Gabon,2.0,3.0,5.0,False,False,False,0,,False
+"Gambia, The",73.0,33.0,106.0,False,False,False,0,,False
+Georgia,488.0,285.0,773.0,False,False,False,0,,False
+Ghana,306.0,94.0,400.0,False,False,False,0,,False
+Grenada,0.0,0.0,0.0,False,False,False,0,,False
+Guatemala,25.0,27.0,52.0,False,False,False,0,,False
+Guinea,56.0,48.0,104.0,False,False,False,0,,False
+Guinea-Bissau,1.0,2.0,3.0,False,False,False,0,,False
+Guyana,3.0,0.0,3.0,False,False,False,0,,False
+Haiti,5.0,4.0,9.0,False,False,False,0,,False
+Holy See,0.0,0.0,0.0,False,False,False,0,,False
+Honduras,121.0,77.0,198.0,False,False,False,0,,False
+Iceland,1.0,0.0,1.0,False,False,False,0,,False
+India,11069.0,4791.0,15860.0,True,True,True,3,,True
+Indonesia,1139.0,1090.0,2229.0,True,True,True,3,,True
+Iran,2945.0,1307.0,4252.0,True,True,False,2,refugee route (Asyl 8); Google access limited,False
+Iraq,212.0,152.0,364.0,False,False,False,0,,False
+Israel,528.0,331.0,859.0,False,False,False,0,,False
+Jamaica,7.0,1.0,8.0,False,False,False,0,,False
+Japan,1777.0,46.0,1823.0,True,False,False,1,"high-income, not care migration",False
+Jordan,421.0,47.0,468.0,False,False,False,0,,False
+Kazakhstan,213.0,40.0,253.0,False,False,False,0,,False
+Kenya,298.0,236.0,534.0,False,False,False,0,,False
+Kiribati,1.0,0.0,1.0,False,False,False,0,,False
+Kosovo*,8866.0,465.0,9331.0,True,False,False,1,,False
+Kuwait,1.0,3.0,4.0,False,False,False,0,,False
+Kyrgyzstan,509.0,342.0,851.0,False,False,False,0,,False
+Laos,1.0,11.0,12.0,False,False,False,0,,False
+Lebanon,273.0,131.0,404.0,False,False,False,0,,False
+Lesotho,1.0,0.0,1.0,False,False,False,0,,False
+Liberia,5.0,2.0,7.0,False,False,False,0,,False
+Libya,76.0,56.0,132.0,False,False,False,0,,False
+Liechtenstein,0.0,0.0,0.0,False,False,False,0,,False
+Madagascar,710.0,728.0,1438.0,False,False,False,0,,False
+Malawi,12.0,6.0,18.0,False,False,False,0,,False
+Malaysia,143.0,30.0,173.0,False,False,False,0,,False
+Maldives,0.0,1.0,1.0,False,False,False,0,,False
+Mali,21.0,28.0,49.0,False,False,False,0,,False
+Marshall Islands,0.0,0.0,0.0,False,False,False,0,,False
+Mauritania,2.0,23.0,25.0,False,False,False,0,,False
+Mauritius,31.0,9.0,40.0,False,False,False,0,,False
+Mexico,1087.0,155.0,1242.0,False,False,False,0,,False
+Moldova,48.0,14.0,62.0,False,False,False,0,,False
+Monaco,0.0,0.0,0.0,False,False,False,0,,False
+Mongolia,243.0,234.0,477.0,False,False,False,0,,False
+Montenegro,627.0,9.0,636.0,False,False,False,0,,False
+Morocco,1447.0,4122.0,5569.0,True,True,False,2,,True
+Mozambique,15.0,7.0,22.0,False,False,False,0,,False
+Myanmar/Burma,154.0,73.0,227.0,False,False,False,0,,False
+Namibia,106.0,73.0,179.0,False,False,False,0,,False
+Nauru,0.0,0.0,0.0,False,False,False,0,,False
+Nepal,274.0,283.0,557.0,False,False,False,0,,False
+New Zealand,187.0,3.0,190.0,False,False,False,0,,False
+Nicaragua,25.0,8.0,33.0,False,False,False,0,,False
+Niger,7.0,4.0,11.0,False,False,False,0,,False
+Nigeria,530.0,180.0,710.0,False,False,False,0,,False
+North Korea,4.0,1.0,5.0,False,False,False,0,,False
+North Macedonia,5097.0,51.0,5148.0,True,False,False,1,,False
+Norway,0.0,0.0,0.0,False,False,False,0,,False
+Oman,2.0,0.0,2.0,False,False,False,0,,False
+Pakistan,1174.0,263.0,1437.0,False,False,False,0,,False
+Palau,0.0,0.0,0.0,False,False,False,0,,False
+Palestine*,67.0,33.0,100.0,False,False,False,0,,False
+Panama,16.0,4.0,20.0,False,False,False,0,,False
+Papua New Guinea,0.0,0.0,0.0,False,False,False,0,,False
+Paraguay,36.0,8.0,44.0,False,False,False,0,,False
+Peru,241.0,91.0,332.0,False,False,False,0,,False
+Philippines,2057.0,552.0,2609.0,True,False,True,2,,True
+Qatar,1.0,0.0,1.0,False,False,False,0,,False
+Russia,2146.0,161.0,2307.0,True,False,False,1,Google not the main search engine,False
+Rwanda,112.0,133.0,245.0,False,False,False,0,,False
+Saint Kitts and Nevis,7.0,0.0,7.0,False,False,False,0,,False
+Saint Lucia,1.0,2.0,3.0,False,False,False,0,,False
+Saint Vincent and the Grenadines,0.0,0.0,0.0,False,False,False,0,,False
+Samoa,0.0,0.0,0.0,False,False,False,0,,False
+San Marino,0.0,0.0,0.0,False,False,False,0,,False
+Saudi Arabia,26.0,5.0,31.0,False,False,False,0,,False
+Senegal,59.0,64.0,123.0,False,False,False,0,,False
+Serbia,5794.0,93.0,5887.0,True,False,False,1,,False
+Seychelles,0.0,0.0,0.0,False,False,False,0,,False
+Sierra Leone,18.0,4.0,22.0,False,False,False,0,,False
+Singapore,87.0,5.0,92.0,False,False,False,0,,False
+Solomon Islands,0.0,0.0,0.0,False,False,False,0,,False
+Somalia,13.0,9.0,22.0,False,False,False,0,,False
+South Africa,366.0,54.0,420.0,False,False,False,0,,False
+South Korea,1291.0,135.0,1426.0,False,False,False,0,,False
+South Sudan,4.0,0.0,4.0,False,False,False,0,,False
+Sri Lanka,216.0,63.0,279.0,False,False,False,0,,False
+Sudan,89.0,35.0,124.0,False,False,False,0,,False
+Suriname,0.0,0.0,0.0,False,False,False,0,,False
+Switzerland,1.0,0.0,1.0,False,False,False,0,,False
+Syria,1277.0,1389.0,2666.0,True,True,False,2,refugee route (Asyl 8),False
+São Tomé and Príncipe,0.0,0.0,0.0,False,False,False,0,,False
+Taiwan,373.0,25.0,398.0,False,False,False,0,,False
+Tajikistan,233.0,328.0,561.0,False,False,False,0,,False
+Tanzania,152.0,36.0,188.0,False,False,False,0,,False
+Thailand,365.0,109.0,474.0,False,False,False,0,,False
+Timor-Leste,0.0,0.0,0.0,False,False,False,0,,False
+Togo,86.0,384.0,470.0,False,False,False,0,,False
+Tonga,0.0,0.0,0.0,False,False,False,0,,False
+Trinidad and Tobago,8.0,0.0,8.0,False,False,False,0,,False
+Tunisia,2579.0,1440.0,4019.0,True,True,True,3,,True
+Turkmenistan,171.0,53.0,224.0,False,False,False,0,,False
+Tuvalu,0.0,0.0,0.0,False,False,False,0,,False
+Türkiye,7751.0,1388.0,9139.0,True,True,True,3,,True
+Uganda,167.0,111.0,278.0,False,False,False,0,,False
+Ukraine,5105.0,1176.0,6281.0,True,True,False,2,refugee route (war),False
+United Arab Emirates,3.0,4.0,7.0,False,False,False,0,,False
+United Kingdom,1714.0,21.0,1735.0,False,False,False,0,high-income; comparison destination,False
+United States,3588.0,126.0,3714.0,True,False,False,1,"high-income, not care migration",False
+Uruguay,11.0,7.0,18.0,False,False,False,0,,False
+Uzbekistan,928.0,282.0,1210.0,False,False,False,0,,False
+Vanuatu,0.0,0.0,0.0,False,False,False,0,,False
+Venezuela,159.0,75.0,234.0,False,False,False,0,,False
+Viet Nam,1691.0,7010.0,8701.0,True,True,False,2,,True
+Western Sahara,0.0,0.0,0.0,False,False,False,0,,False
+Yemen,52.0,97.0,149.0,False,False,False,0,,False
+Zambia,47.0,11.0,58.0,False,False,False,0,,False
+Zimbabwe,188.0,177.0,365.0,False,False,False,0,,False

@@ -1,0 +1,174 @@
+country,2023,2024,2025
+India,12289.0,8358.0,11069.0
+Kosovo*,7662.0,5122.0,8866.0
+Türkiye,6424.0,5686.0,7751.0
+Albania,5485.0,3939.0,6291.0
+Bosnia and Herzegovina,6753.0,4065.0,5895.0
+Serbia,6484.0,3638.0,5794.0
+Ukraine,1201.0,2234.0,5105.0
+North Macedonia,4188.0,3279.0,5097.0
+China,4300.0,3712.0,5041.0
+United States,3918.0,3023.0,3588.0
+Iran,2676.0,2294.0,2945.0
+Tunisia,1798.0,1915.0,2579.0
+Russia,6459.0,2404.0,2146.0
+Philippines,2474.0,2016.0,2057.0
+Japan,1673.0,1750.0,1777.0
+United Kingdom,2038.0,1548.0,1714.0
+Viet Nam,767.0,840.0,1691.0
+Brazil,1710.0,1308.0,1499.0
+Egypt,1191.0,1020.0,1448.0
+Morocco,808.0,858.0,1447.0
+South Korea,1199.0,1121.0,1291.0
+Syria,652.0,816.0,1277.0
+Colombia,1277.0,826.0,1194.0
+Pakistan,1167.0,870.0,1174.0
+Indonesia,1205.0,945.0,1139.0
+Mexico,1220.0,793.0,1087.0
+Uzbekistan,262.0,459.0,928.0
+Canada,983.0,709.0,920.0
+Madagascar,228.0,488.0,710.0
+Azerbaijan,469.0,471.0,698.0
+Montenegro,725.0,451.0,627.0
+Australia,664.0,588.0,602.0
+Algeria,295.0,321.0,552.0
+Nigeria,506.0,378.0,530.0
+Israel,477.0,433.0,528.0
+Kyrgyzstan,483.0,356.0,509.0
+Georgia,544.0,417.0,488.0
+Belarus,542.0,329.0,442.0
+Jordan,382.0,352.0,421.0
+Chile,350.0,293.0,410.0
+Cameroon,328.0,301.0,382.0
+Taiwan,310.0,259.0,373.0
+South Africa,447.0,317.0,366.0
+Thailand,477.0,221.0,365.0
+Ghana,208.0,183.0,306.0
+Kenya,236.0,136.0,298.0
+Bangladesh,284.0,240.0,287.0
+Argentina,482.0,259.0,277.0
+Nepal,287.0,205.0,274.0
+Lebanon,351.0,248.0,273.0
+Afghanistan,229.0,185.0,247.0
+Mongolia,224.0,205.0,243.0
+Peru,254.0,202.0,241.0
+Tajikistan,264.0,143.0,233.0
+Sri Lanka,240.0,146.0,216.0
+Kazakhstan,193.0,154.0,213.0
+Iraq,134.0,141.0,212.0
+Ecuador,217.0,172.0,212.0
+Zimbabwe,165.0,123.0,188.0
+New Zealand,175.0,177.0,187.0
+Armenia,161.0,126.0,184.0
+Turkmenistan,43.0,268.0,171.0
+Uganda,264.0,178.0,167.0
+Venezuela,235.0,160.0,159.0
+Myanmar/Burma,27.0,47.0,154.0
+Tanzania,81.0,69.0,152.0
+Malaysia,185.0,133.0,143.0
+Honduras,69.0,81.0,121.0
+Rwanda,71.0,58.0,112.0
+Namibia,93.0,84.0,106.0
+Ethiopia,97.0,82.0,104.0
+Sudan,55.0,60.0,89.0
+Bolivia,72.0,55.0,88.0
+Singapore,91.0,74.0,87.0
+Togo,83.0,57.0,86.0
+Libya,80.0,70.0,76.0
+Cuba,110.0,70.0,76.0
+"Gambia, The",38.0,63.0,73.0
+Palestine*,53.0,56.0,67.0
+Senegal,64.0,47.0,59.0
+Costa Rica,86.0,59.0,58.0
+Benin,61.0,59.0,57.0
+Guinea,44.0,33.0,56.0
+Yemen,45.0,46.0,52.0
+El Salvador,52.0,43.0,52.0
+Côte d’Ivoire,48.0,43.0,50.0
+Moldova,65.0,41.0,48.0
+Zambia,20.0,21.0,47.0
+Burkina Faso,16.0,18.0,44.0
+Paraguay,34.0,34.0,36.0
+Mauritius,32.0,12.0,31.0
+Dominican Republic,28.0,22.0,31.0
+Saudi Arabia,40.0,35.0,26.0
+Guatemala,51.0,28.0,25.0
+Nicaragua,21.0,20.0,25.0
+Mali,22.0,9.0,21.0
+Angola,8.0,7.0,20.0
+Democratic Republic of the Congo,21.0,16.0,19.0
+Sierra Leone,9.0,8.0,18.0
+Panama,15.0,18.0,16.0
+Mozambique,10.0,13.0,15.0
+Somalia,9.0,7.0,13.0
+Eritrea,5.0,3.0,13.0
+Malawi,5.0,10.0,12.0
+Congo,7.0,6.0,11.0
+Uruguay,22.0,24.0,11.0
+Dominica,5.0,6.0,10.0
+Botswana,4.0,4.0,9.0
+Trinidad and Tobago,6.0,8.0,8.0
+Cambodia,3.0,11.0,7.0
+Saint Kitts and Nevis,4.0,6.0,7.0
+Jamaica,10.0,7.0,7.0
+Niger,7.0,2.0,7.0
+Chad,3.0,5.0,6.0
+Liberia,4.0,0.0,5.0
+Bahrain,8.0,5.0,5.0
+Haiti,3.0,7.0,5.0
+North Korea,0.0,8.0,4.0
+British overseas countries and territories,5.0,7.0,4.0
+South Sudan,1.0,1.0,4.0
+Eswatini,1.0,4.0,4.0
+Burundi,2.0,8.0,3.0
+United Arab Emirates,2.0,7.0,3.0
+Guyana,2.0,0.0,3.0
+Bhutan,6.0,4.0,3.0
+Brunei Darussalam,0.0,2.0,2.0
+Bahamas,1.0,0.0,2.0
+Belize,0.0,0.0,2.0
+Mauritania,4.0,6.0,2.0
+Gabon,5.0,8.0,2.0
+Oman,2.0,4.0,2.0
+Barbados,1.0,1.0,2.0
+Andorra,0.0,0.0,1.0
+Switzerland,2.0,2.0,1.0
+Guinea-Bissau,2.0,1.0,1.0
+Iceland,3.0,1.0,1.0
+Central African Republic,2.0,1.0,1.0
+Cabo Verde,3.0,3.0,1.0
+Antigua and Barbuda,2.0,1.0,1.0
+Kiribati,0.0,0.0,1.0
+Kuwait,2.0,0.0,1.0
+Laos,2.0,1.0,1.0
+Lesotho,1.0,1.0,1.0
+Qatar,7.0,0.0,1.0
+Fiji,0.0,1.0,1.0
+Saint Lucia,1.0,0.0,1.0
+Djibouti,0.0,0.0,0.0
+Comoros,1.0,0.0,0.0
+Cook Islands,0.0,0.0,0.0
+Grenada,3.0,1.0,0.0
+Monaco,0.0,0.0,0.0
+Maldives,0.0,2.0,0.0
+Marshall Islands,0.0,0.0,0.0
+Liechtenstein,0.0,0.0,0.0
+Federated States of Micronesia,0.0,0.0,0.0
+Equatorial Guinea,0.0,1.0,0.0
+Holy See,0.0,0.0,0.0
+Nauru,0.0,0.0,0.0
+Solomon Islands,0.0,0.0,0.0
+Samoa,0.0,0.0,0.0
+San Marino,1.0,0.0,0.0
+Saint Vincent and the Grenadines,2.0,0.0,0.0
+Norway,0.0,0.0,0.0
+Palau,0.0,0.0,0.0
+Papua New Guinea,1.0,0.0,0.0
+Seychelles,1.0,2.0,0.0
+Timor-Leste,1.0,0.0,0.0
+Suriname,0.0,1.0,0.0
+São Tomé and Príncipe,0.0,0.0,0.0
+Tonga,0.0,0.0,0.0
+Tuvalu,0.0,0.0,0.0
+Vanuatu,0.0,0.0,0.0
+Western Sahara,0.0,0.0,0.0

@@ -1,0 +1,28 @@
+# Private files — never push (FB screenshots, university documents, notes)
+private/
+
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# gtab anchor-bank cache
+gtab_config/
+output/
+
+# System files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Backup copies of notebooks
+notebooks/.backup_*.ipynb
+
+# Third-party reports (cite and link them, do not redistribute)
+/*.pdf
