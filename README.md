@@ -3,7 +3,7 @@
 **Google Trends signals of labour migration interest and policy effects — with a focus on migrant care workers**
 
 MDSSB-CAP-01 Capstone Project (Fall 2026) · MSc Data Science for Society and Business · Constructor University Bremen
-Author: Tayaphon Rodsai ([@TayaphonRodsai](https://github.com/TayaphonRodsai)) · Supervisors: Prof. Erkan Gunes, Prof. Jan Lorenz
+Author: Tayaphon Rodsai ([@TayaphonRodsai](https://github.com/TayaphonRodsai)) · Supervisors: Prof. Erkan Gunes
 
 > **Status: work in progress.** Done: country selection (Notebook 01), keyword discovery round 1 (Notebook 02).
 > Now: keyword discovery round 2 for the pilot countries Viet Nam, the Philippines and India.
