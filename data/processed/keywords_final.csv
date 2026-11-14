@@ -1,0 +1,21 @@
+country,code,theme,keyword,attempt,status,zero_share_%,data_from,note
+Bosnia and Herzegovina,BA,work,posao u njemačkoj,main,usable,24.647887323943664,2015.0,
+Cameroon,CM,training,ausbildung,alt,recent,52.112676056338024,2022.0,German word used directly; related queries include nursing training (pflege)
+Cameroon,CM,work,visa allemagne,alt,usable,34.50704225352113,2022.0,visa search used for work; also includes tourist visas
+India,IN,training,ausbildung in germany,main,recent,54.22535211267606,2022.0,
+India,IN,work,jobs in germany,main,strong,0.0,2015.0,
+Indonesia,ID,care,perawat jerman,main,recent,47.183098591549296,2022.0,
+Indonesia,ID,training,ausbildung jerman,main,usable,28.169014084507044,2019.0,
+Indonesia,ID,work,kerja di jerman,main,strong,0.0,2015.0,
+Morocco,MA,training,ausbildung,alt,usable,21.830985915492956,2018.0,German word used directly; related queries include nursing training (pflege)
+Morocco,MA,work,visa allemagne,alt,strong,0.0,2015.0,visa search used for work; also includes tourist visas
+Philippines,PH,care,nurse germany,main,usable,16.19718309859155,2017.0,
+Philippines,PH,work,jobs in germany,main,usable,16.901408450704224,2018.0,
+Tunisia,TN,training,ausbildung,alt,usable,28.169014084507044,2019.0,German word used directly; related queries include nursing training (pflege)
+Tunisia,TN,work,visa allemagne,alt,strong,0.0,2015.0,visa search used for work; also includes tourist visas
+Türkiye,TR,care,almanya hemşire,main,usable,32.3943661971831,2019.0,
+Türkiye,TR,training,almanya ausbildung,main,recent,55.633802816901415,2022.0,
+Türkiye,TR,work,almanya iş ilanları,main,strong,0.0,2015.0,
+Viet Nam,VN,care,điều dưỡng đức,main,strong,0.0,2015.0,
+Viet Nam,VN,training,du học nghề đức,main,strong,9.15492957746479,2016.0,
+Viet Nam,VN,work,xuất khẩu lao động đức,main,usable,28.169014084507044,2017.0,

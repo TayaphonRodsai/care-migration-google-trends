@@ -26,3 +26,6 @@ notebooks/.backup_*.ipynb
 
 # Third-party reports (cite and link them, do not redistribute)
 /*.pdf
+
+# gtab working folder (Google query cache, logs); results are saved in data/processed/gtab/
+data/gtab_workspace/

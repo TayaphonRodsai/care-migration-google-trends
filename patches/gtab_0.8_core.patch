@@ -1,0 +1,90 @@
+--- core_original.py	2026-11-13 22:24:33.925920800 +0000
++++ core.py	2026-11-14 19:16:50.806635700 +0000
+@@ -200,7 +200,8 @@
+         for val in gres.values():
+             bads = list(val.columns[val.max() < self.CONFIG['GTAB']['thresh_offline']])
+             for b in bads:
+-                ret[b][1] += 1
++                if b in ret:  # PATCH: ignore keywords already removed
++                    ret[b][1] += 1
+ 
+         return ret
+ 
+@@ -254,11 +255,14 @@
+                     cnt = 0
+                     idx = 0
+                     while cnt < 5:
++                        if j + idx >= len(new_kws):  # PATCH: stop at the end of the list
++                            break
+                         if new_kws[j + idx][1]:
+                             t.append(new_kws[j + idx][0])
+                             cnt += 1
+                         idx += 1
+-                    ret.append(t)
++                    if len(t) == 5:  # PATCH: only full groups of 5
++                        ret.append(t)
+                 return ret
+ 
+             def compute_requery_ranges(bad_idxs):
+@@ -267,7 +271,7 @@
+                 ret_cnts = []
+                 i = 0
+                 while i < len(bad_idxs):
+-                    L = bad_idxs[i] - 4
++                    L = max(bad_idxs[i] - 4, 0)  # PATCH: no negative start
+                     R = bad_idxs[i]
+                     next_i = i + 1
+ 
+@@ -376,6 +380,8 @@
+                             raise e
+                     t_ret[i] = df_query
+ 
++            with open(fpath_intermediate, 'wb') as f_out:  # PATCH: save downloads before clean-up
++                pickle.dump(query_cache, f_out, protocol=4)
+             self._print_and_log("Removing bad queries...")
+             no_passes = 0
+             bad_queries_total = 0
+@@ -579,9 +585,9 @@
+                 path_attrib_dict = compute_path_attribs(p, G, ['weight', "ratio", "ratio_hi", "ratio_lo", 'error'])
+                 v1 = p[0]
+                 v2 = p[-1]
+-                W.loc[v1][v2] = path_attrib_dict['ratio']
+-                W_lo.loc[v1][v2] = path_attrib_dict['ratio_lo']
+-                W_hi.loc[v1][v2] = path_attrib_dict['ratio_hi']
++                W.at[v1, v2] = path_attrib_dict['ratio']  # PATCH: pandas 3 (chained assignment does nothing)
++                W_lo.at[v1, v2] = path_attrib_dict['ratio_lo']  # PATCH: pandas 3 (chained assignment does nothing)
++                W_hi.at[v1, v2] = path_attrib_dict['ratio_hi']  # PATCH: pandas 3 (chained assignment does nothing)
+         self._print_and_log("Paths done!")
+ 
+         return W, W_lo, W_hi
+@@ -629,9 +635,9 @@
+         pairs_max_ratios_hi = [1.0] + [np.max((ts.iloc[:, 1] + 0.5) / 100) for ts in pairwise_dict.values()]
+         pairs_max_ratios_lo = [1.0] + [np.max((ts.iloc[:, 1] - 0.5) / 100) for ts in pairwise_dict.values()]
+ 
+-        W = pd.DataFrame(0, index=mids, columns=mids)
+-        W_hi = pd.DataFrame(0, index=mids, columns=mids)
+-        W_lo = pd.DataFrame(0, index=mids, columns=mids)
++        W = pd.DataFrame(0.0, index=mids, columns=mids)  # PATCH: float, pandas 3 does not convert int to float
++        W_hi = pd.DataFrame(0.0, index=mids, columns=mids)  # PATCH: float, pandas 3 does not convert int to float
++        W_lo = pd.DataFrame(0.0, index=mids, columns=mids)  # PATCH: float, pandas 3 does not convert int to float
+ 
+         for i in range(0, N):
+             W.iloc[i] = np.cumprod(pairs_max_ratios) / np.prod(pairs_max_ratios[0:(i + 1)])
+@@ -854,7 +860,7 @@
+         """
+         self._error_flag = False
+         self._log_con = open(os.path.join(self.dir_path, "logs", f"log_{self._make_file_suffix()}.txt"),
+-                             'a')  # append vs write
++                             'a', encoding='utf-8')  # PATCH: utf-8 log  # append vs write
+         self._log_con.write(f"\n{datetime.datetime.now()}\n")
+ 
+         self._print_and_log(
+@@ -959,7 +965,7 @@
+ 
+         if self.active_gtab is None:
+             raise ValueError("Must use 'set_active_gtab()' to select anchorbank before querying!")
+-        self._log_con = open(os.path.join(self.dir_path, "logs", f"log_{self._make_file_suffix()}.txt"), 'a')
++        self._log_con = open(os.path.join(self.dir_path, "logs", f"log_{self._make_file_suffix()}.txt"), 'a', encoding='utf-8')  # PATCH: utf-8 log (Windows Thai locale cannot write Vietnamese)
+         self._log_con.write(f"\n{datetime.datetime.now()}\n")
+         self._print_and_log(f"Using {self.active_gtab}")
+         self._print_and_log(f"New query '{query}'")

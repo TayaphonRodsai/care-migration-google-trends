@@ -1,0 +1,34 @@
+file,code,country,theme,attempt,keyword,zero_share_%,zero_share_since_2022_%,data_from,first_nonzero,status
+BA_care,BA,Bosnia and Herzegovina,care,main,medicinska sestra njemačka,100.0,100.0,,,too rare
+BA_training,BA,Bosnia and Herzegovina,training,main,ausbildung njemačka,100.0,100.0,,,too rare
+BA_work,BA,Bosnia and Herzegovina,work,main,posao u njemačkoj,24.647887323943664,60.3448275862069,2015.0,2015-01,usable
+CM_care,CM,Cameroon,care,main,infirmier allemagne,95.07042253521126,87.93103448275862,,2023-05,too rare
+CM_training,CM,Cameroon,training,main,ausbildung allemagne,88.02816901408451,70.6896551724138,,2022-10,too rare
+CM_training_alt,CM,Cameroon,training,alt,ausbildung,52.112676056338024,0.0,2022.0,2018-08,recent
+CM_work,CM,Cameroon,work,main,travailler en allemagne,96.47887323943662,91.37931034482759,,2023-07,too rare
+CM_work_alt,CM,Cameroon,work,alt,visa allemagne,34.50704225352113,3.4482758620689653,2022.0,2015-07,usable
+ID_care,ID,Indonesia,care,main,perawat jerman,47.183098591549296,0.0,2022.0,2016-06,recent
+ID_training,ID,Indonesia,training,main,ausbildung jerman,28.169014084507044,0.0,2019.0,2017-11,usable
+ID_work,ID,Indonesia,work,main,kerja di jerman,0.0,0.0,2015.0,2015-01,strong
+IN_care,IN,India,care,main,nursing jobs in germany,80.98591549295774,56.896551724137936,,2016-11,too rare
+IN_training,IN,India,training,main,ausbildung in germany,54.22535211267606,0.0,2022.0,2021-04,recent
+IN_work,IN,India,work,main,jobs in germany,0.0,0.0,2015.0,2015-01,strong
+MA_care,MA,Morocco,care,main,infirmier allemagne,99.29577464788733,98.27586206896551,,2024-08,too rare
+MA_training,MA,Morocco,training,main,ausbildung allemagne,88.73239436619718,72.41379310344827,,2022-07,too rare
+MA_training_alt,MA,Morocco,training,alt,ausbildung,21.830985915492956,0.0,2018.0,2016-07,usable
+MA_work,MA,Morocco,work,main,travail en allemagne,92.95774647887323,87.93103448275862,,2016-02,too rare
+MA_work_alt,MA,Morocco,work,alt,visa allemagne,0.0,0.0,2015.0,2015-01,strong
+PH_care,PH,Philippines,care,main,nurse germany,16.19718309859155,0.0,2017.0,2015-06,usable
+PH_training,PH,Philippines,training,main,ausbildung in germany,72.53521126760563,32.758620689655174,2025.0,2022-01,too rare
+PH_work,PH,Philippines,work,main,jobs in germany,16.901408450704224,1.7241379310344827,2018.0,2015-01,usable
+TN_care,TN,Tunisia,care,main,infirmier allemagne,85.2112676056338,67.24137931034483,,2020-09,too rare
+TN_training,TN,Tunisia,training,main,ausbildung allemagne,63.38028169014085,15.517241379310345,2022.0,2021-07,too rare
+TN_training_alt,TN,Tunisia,training,alt,ausbildung,28.169014084507044,0.0,2019.0,2015-09,usable
+TN_work,TN,Tunisia,work,main,travail en allemagne,85.91549295774648,79.3103448275862,,2016-11,too rare
+TN_work_alt,TN,Tunisia,work,alt,visa allemagne,0.0,0.0,2015.0,2015-01,strong
+TR_care,TR,Türkiye,care,main,almanya hemşire,32.3943661971831,1.7241379310344827,2019.0,2018-10,usable
+TR_training,TR,Türkiye,training,main,almanya ausbildung,55.633802816901415,0.0,2022.0,2021-07,recent
+TR_work,TR,Türkiye,work,main,almanya iş ilanları,0.0,0.0,2015.0,2015-01,strong
+VN_care,VN,Viet Nam,care,main,điều dưỡng đức,0.0,0.0,2015.0,2015-01,strong
+VN_training,VN,Viet Nam,training,main,du học nghề đức,9.15492957746479,0.0,2016.0,2015-07,strong
+VN_work,VN,Viet Nam,work,main,xuất khẩu lao động đức,28.169014084507044,0.0,2017.0,2015-04,usable

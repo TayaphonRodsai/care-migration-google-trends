@@ -3,10 +3,10 @@
 **Google Trends signals of labour migration interest and policy effects — with a focus on migrant care workers**
 
 MDSSB-CAP-01 Capstone Project (Fall 2026) · MSc Data Science for Society and Business · Constructor University Bremen
-Author: Tayaphon Rodsai ([@TayaphonRodsai](https://github.com/TayaphonRodsai)) · Supervisors: Prof. Erkan Gunes, Prof. Jan Lorenz
+Author: Tayaphon Rodsai ([@TayaphonRodsai](https://github.com/TayaphonRodsai)) · Supervisors: Prof. Erkan Gunes
 
-> **Status: work in progress.** Done: country selection (Notebook 01), keyword discovery round 1 (Notebook 02).
-> Now: keyword discovery round 2 for the pilot countries Viet Nam, the Philippines and India.
+> **Status: work in progress (14 Nov 2026).** Done: country selection (01), keyword discovery rounds 1–2 (02), gtab test (03), searches vs. permits (RQ2, 05).
+> Now: gtab calibration country by country (04, Viet Nam done). Next: policy comparison (RQ3, 06).
 
 ---
 
@@ -50,7 +50,7 @@ Keywords come from **what people really search**, not from the author's guesses 
 
 1. **Round 1** — related queries (top + rising) for the topic *Germany* in each country; keep only queries about work, care, training, language or visa.
 2. **Round 2** — search the best round-1 keywords plus a few local seed words; their related queries give more specific keywords.
-3. **Check** — public social media (Facebook groups, Meta Ad Library, TikTok) and native speakers confirm the words are really used.
+3. **Check** — native speakers confirm the words are really used (done for Türkiye and Indonesia; India and Tunisia pending). In Google Trends, a term without quotation marks also counts longer searches that contain all its words, so short keywords include the longer phrases people type.
 4. **Calibrate** — make series comparable with [`gtab`](https://github.com/epfl-dlab/GoogleTrendsAnchorBank) (anchor banks).
 
 Decisions on keywords are logged in [`docs/keyword_log.csv`](docs/keyword_log.csv).
@@ -60,11 +60,15 @@ Decisions on keywords are logged in [`docs/keyword_log.csv`](docs/keyword_log.cs
 | # | Notebook | Status |
 |---|---|---|
 | 01 | [Country selection](notebooks/01_country_selection.ipynb) | ✅ done |
-| 02 | [Keyword discovery](notebooks/02_keywords.ipynb) | 🔄 round 1 done, round 2 next |
-| 03 | Collect Google Trends data | planned |
-| 04 | Calibration with `gtab` (RQ1) | planned |
-| 05 | Searches vs. permits (RQ2) | planned |
+| 02 | [Keyword discovery](notebooks/02_keywords.ipynb) | ✅ done — 20 final keywords |
+| 03 | [gtab test](notebooks/03_gtab_test.ipynb) | ✅ done |
+| 04 | [Calibration with `gtab` (RQ1)](notebooks/04_gtab_calibration.ipynb) | 🔄 Viet Nam done, one country per day |
+| 05 | [Searches vs. permits (RQ2)](notebooks/05_rq2_searches_vs_permits.ipynb) | ✅ done |
 | 06 | Policy comparison (RQ3) | planned |
+
+### First results (RQ2)
+
+Yearly searches and first permits (2015–2025) move together: pooled **r = 0.54** over 18 keywords. Robustness tests (yearly changes, year fixed effects, placebo with other countries' permits, a second Google sample) show that much of this is a **trend shared by all countries**. A clear country-specific link appears mainly for **Ausbildung** searches.
 
 ## Repository structure
 
@@ -92,13 +96,17 @@ pip install -r requirements.txt
 ```
 
 Then open the notebooks in VS Code or Jupyter and run them in order (01, 02, …).
+
+**gtab and new Python versions:** `gtab` 0.8 does not run as-is with Python 3.14 / pandas 3. Apply the small fixes in [`patches/gtab_0.8_core.patch`](patches/gtab_0.8_core.patch) to the installed `gtab/core.py`. Google Trends limits the number of requests per day, so anchor banks are built one country per day.
 Notebooks read and write data with relative paths (`../data/...`).
 
 ## Limits
 
 - Google Trends values are relative (0–100), sampled, and depend on language.
 - In some countries job seeking happens mostly on Facebook; Google Trends shows *information seeking*, not the whole job search.
-- Permit data is yearly, so there are few data points per country. Many 2024 values look unusually low (to be checked).
+- Permit data is yearly, so there are few data points per country, and we cannot show that searches come *before* permits (monthly data would be needed). Many 2024 values look unusually low (to be checked).
+- Google changed its data collection in January 2016 and January 2022.
+- Native-speaker checks were possible only for some countries.
 - Results show associations, not causes.
 
 ## Ethics

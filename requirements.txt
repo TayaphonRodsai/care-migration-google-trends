@@ -5,3 +5,5 @@ requests
 statsmodels
 gtab
 ipykernel
+urllib3<2      # pytrends (used by gtab) does not work with urllib3 2.x
+jinja2         # pandas table styling (.style)

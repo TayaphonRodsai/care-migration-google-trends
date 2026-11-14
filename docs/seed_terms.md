@@ -31,7 +31,7 @@ Facebook and TikTok results depend on the account and location; searches were do
 | country | PH |
 | language | en |
 | term | nurse jobs germany |
-| category | care / training / work / language / visa |
+| category | care / training / work / language / visa / recognition / salary |
 | source | trends_round1 / trends_round2 / fb_group / fb_ad_library / tiktok / native_speaker |
 | source_detail | e.g. "rising query of seed 'nurse germany'" — no personal names |
 | in_google_trends | yes / no (mostly zeros) |

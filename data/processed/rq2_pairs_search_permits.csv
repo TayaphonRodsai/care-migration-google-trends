@@ -1,0 +1,196 @@
+file,country,theme,keyword,year,search,permits
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2015,50.25,1062.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2016,66.25,4414.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2017,65.75,6193.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2018,61.833333333333336,6335.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2019,44.666666666666664,6833.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2020,22.5,5058.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2021,14.833333333333334,3076.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2022,14.916666666666666,6172.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2023,7.833333333333333,6753.0
+BA_work,Bosnia and Herzegovina,work,posao u njemačkoj,2024,0.8333333333333334,4065.0
+CM_training_alt,Cameroon,training,ausbildung,2018,2.4166666666666665,202.0
+CM_training_alt,Cameroon,training,ausbildung,2019,5.916666666666667,181.0
+CM_training_alt,Cameroon,training,ausbildung,2020,4.166666666666667,161.0
+CM_training_alt,Cameroon,training,ausbildung,2021,9.25,192.0
+CM_training_alt,Cameroon,training,ausbildung,2022,28.0,272.0
+CM_training_alt,Cameroon,training,ausbildung,2023,35.166666666666664,689.0
+CM_training_alt,Cameroon,training,ausbildung,2024,41.666666666666664,1103.0
+CM_training_alt,Cameroon,training,ausbildung,2025,44.416666666666664,1920.0
+CM_work_alt,Cameroon,work,visa allemagne,2015,7.583333333333333,69.0
+CM_work_alt,Cameroon,work,visa allemagne,2016,46.166666666666664,99.0
+CM_work_alt,Cameroon,work,visa allemagne,2017,30.916666666666668,108.0
+CM_work_alt,Cameroon,work,visa allemagne,2018,18.333333333333332,91.0
+CM_work_alt,Cameroon,work,visa allemagne,2019,46.416666666666664,154.0
+CM_work_alt,Cameroon,work,visa allemagne,2020,18.166666666666668,119.0
+CM_work_alt,Cameroon,work,visa allemagne,2021,18.666666666666668,236.0
+CM_work_alt,Cameroon,work,visa allemagne,2022,36.416666666666664,310.0
+CM_work_alt,Cameroon,work,visa allemagne,2023,41.75,328.0
+CM_work_alt,Cameroon,work,visa allemagne,2024,38.0,301.0
+CM_work_alt,Cameroon,work,visa allemagne,2025,37.166666666666664,382.0
+IN_training,India,training,ausbildung in germany,2021,3.1666666666666665,320.0
+IN_training,India,training,ausbildung in germany,2022,16.916666666666668,807.0
+IN_training,India,training,ausbildung in germany,2023,29.75,1603.0
+IN_training,India,training,ausbildung in germany,2024,39.75,1961.0
+IN_training,India,training,ausbildung in germany,2025,54.166666666666664,4791.0
+IN_work,India,work,jobs in germany,2015,54.166666666666664,1933.0
+IN_work,India,work,jobs in germany,2016,39.833333333333336,4491.0
+IN_work,India,work,jobs in germany,2017,40.416666666666664,5422.0
+IN_work,India,work,jobs in germany,2018,37.583333333333336,7655.0
+IN_work,India,work,jobs in germany,2019,38.0,8283.0
+IN_work,India,work,jobs in germany,2020,34.0,5027.0
+IN_work,India,work,jobs in germany,2021,38.416666666666664,7161.0
+IN_work,India,work,jobs in germany,2022,45.5,12902.0
+IN_work,India,work,jobs in germany,2023,45.416666666666664,12289.0
+IN_work,India,work,jobs in germany,2024,46.416666666666664,8358.0
+IN_work,India,work,jobs in germany,2025,50.916666666666664,11069.0
+ID_care,Indonesia,care,perawat jerman,2016,2.9166666666666665,394.0
+ID_care,Indonesia,care,perawat jerman,2017,2.4166666666666665,421.0
+ID_care,Indonesia,care,perawat jerman,2018,2.25,746.0
+ID_care,Indonesia,care,perawat jerman,2019,9.916666666666666,1290.0
+ID_care,Indonesia,care,perawat jerman,2020,6.333333333333333,718.0
+ID_care,Indonesia,care,perawat jerman,2021,16.416666666666668,1341.0
+ID_care,Indonesia,care,perawat jerman,2022,27.666666666666668,1686.0
+ID_care,Indonesia,care,perawat jerman,2023,37.416666666666664,1949.0
+ID_care,Indonesia,care,perawat jerman,2024,41.833333333333336,1653.0
+ID_care,Indonesia,care,perawat jerman,2025,49.666666666666664,2229.0
+ID_training,Indonesia,training,ausbildung jerman,2017,0.5833333333333334,89.0
+ID_training,Indonesia,training,ausbildung jerman,2018,6.083333333333333,288.0
+ID_training,Indonesia,training,ausbildung jerman,2019,16.083333333333332,564.0
+ID_training,Indonesia,training,ausbildung jerman,2020,12.5,358.0
+ID_training,Indonesia,training,ausbildung jerman,2021,18.416666666666668,315.0
+ID_training,Indonesia,training,ausbildung jerman,2022,22.833333333333332,566.0
+ID_training,Indonesia,training,ausbildung jerman,2023,28.0,744.0
+ID_training,Indonesia,training,ausbildung jerman,2024,47.583333333333336,708.0
+ID_training,Indonesia,training,ausbildung jerman,2025,62.916666666666664,1090.0
+ID_work,Indonesia,work,kerja di jerman,2015,30.833333333333332,111.0
+ID_work,Indonesia,work,kerja di jerman,2016,27.5,295.0
+ID_work,Indonesia,work,kerja di jerman,2017,24.833333333333332,332.0
+ID_work,Indonesia,work,kerja di jerman,2018,25.75,458.0
+ID_work,Indonesia,work,kerja di jerman,2019,28.416666666666668,726.0
+ID_work,Indonesia,work,kerja di jerman,2020,37.833333333333336,360.0
+ID_work,Indonesia,work,kerja di jerman,2021,46.083333333333336,1026.0
+ID_work,Indonesia,work,kerja di jerman,2022,54.166666666666664,1120.0
+ID_work,Indonesia,work,kerja di jerman,2023,53.75,1205.0
+ID_work,Indonesia,work,kerja di jerman,2024,49.666666666666664,945.0
+ID_work,Indonesia,work,kerja di jerman,2025,55.25,1139.0
+MA_training_alt,Morocco,training,ausbildung,2016,0.5,45.0
+MA_training_alt,Morocco,training,ausbildung,2017,1.5,146.0
+MA_training_alt,Morocco,training,ausbildung,2018,6.416666666666667,277.0
+MA_training_alt,Morocco,training,ausbildung,2019,23.0,398.0
+MA_training_alt,Morocco,training,ausbildung,2020,21.75,403.0
+MA_training_alt,Morocco,training,ausbildung,2021,28.5,1088.0
+MA_training_alt,Morocco,training,ausbildung,2022,44.833333333333336,1727.0
+MA_training_alt,Morocco,training,ausbildung,2023,66.0,2678.0
+MA_training_alt,Morocco,training,ausbildung,2024,76.83333333333333,3116.0
+MA_training_alt,Morocco,training,ausbildung,2025,76.33333333333333,4122.0
+MA_work_alt,Morocco,work,visa allemagne,2015,44.083333333333336,56.0
+MA_work_alt,Morocco,work,visa allemagne,2016,37.416666666666664,97.0
+MA_work_alt,Morocco,work,visa allemagne,2017,40.833333333333336,143.0
+MA_work_alt,Morocco,work,visa allemagne,2018,54.5,220.0
+MA_work_alt,Morocco,work,visa allemagne,2019,73.25,273.0
+MA_work_alt,Morocco,work,visa allemagne,2020,29.333333333333332,214.0
+MA_work_alt,Morocco,work,visa allemagne,2021,21.75,392.0
+MA_work_alt,Morocco,work,visa allemagne,2022,55.083333333333336,571.0
+MA_work_alt,Morocco,work,visa allemagne,2023,55.5,808.0
+MA_work_alt,Morocco,work,visa allemagne,2024,45.583333333333336,858.0
+MA_work_alt,Morocco,work,visa allemagne,2025,42.833333333333336,1447.0
+PH_care,Philippines,care,nurse germany,2015,2.9166666666666665,68.0
+PH_care,Philippines,care,nurse germany,2016,19.416666666666668,393.0
+PH_care,Philippines,care,nurse germany,2017,42.583333333333336,540.0
+PH_care,Philippines,care,nurse germany,2018,49.333333333333336,806.0
+PH_care,Philippines,care,nurse germany,2019,41.583333333333336,1391.0
+PH_care,Philippines,care,nurse germany,2020,33.583333333333336,1476.0
+PH_care,Philippines,care,nurse germany,2021,38.416666666666664,2283.0
+PH_care,Philippines,care,nurse germany,2022,39.0,2822.0
+PH_care,Philippines,care,nurse germany,2023,38.25,3049.0
+PH_care,Philippines,care,nurse germany,2024,44.75,2310.0
+PH_care,Philippines,care,nurse germany,2025,47.333333333333336,2609.0
+PH_work,Philippines,work,jobs in germany,2015,31.333333333333332,63.0
+PH_work,Philippines,work,jobs in germany,2016,30.666666666666668,364.0
+PH_work,Philippines,work,jobs in germany,2017,33.833333333333336,511.0
+PH_work,Philippines,work,jobs in germany,2018,31.916666666666668,762.0
+PH_work,Philippines,work,jobs in germany,2019,26.25,1316.0
+PH_work,Philippines,work,jobs in germany,2020,18.333333333333332,1310.0
+PH_work,Philippines,work,jobs in germany,2021,13.333333333333334,1943.0
+PH_work,Philippines,work,jobs in germany,2022,29.0,2416.0
+PH_work,Philippines,work,jobs in germany,2023,27.0,2474.0
+PH_work,Philippines,work,jobs in germany,2024,28.916666666666668,2016.0
+PH_work,Philippines,work,jobs in germany,2025,34.25,2057.0
+TN_training_alt,Tunisia,training,ausbildung,2015,0.4166666666666667,45.0
+TN_training_alt,Tunisia,training,ausbildung,2017,0.5833333333333334,164.0
+TN_training_alt,Tunisia,training,ausbildung,2018,2.6666666666666665,427.0
+TN_training_alt,Tunisia,training,ausbildung,2019,9.333333333333334,200.0
+TN_training_alt,Tunisia,training,ausbildung,2020,13.083333333333334,339.0
+TN_training_alt,Tunisia,training,ausbildung,2021,21.166666666666668,604.0
+TN_training_alt,Tunisia,training,ausbildung,2022,29.916666666666668,931.0
+TN_training_alt,Tunisia,training,ausbildung,2023,40.25,1100.0
+TN_training_alt,Tunisia,training,ausbildung,2024,56.083333333333336,1081.0
+TN_training_alt,Tunisia,training,ausbildung,2025,45.916666666666664,1440.0
+TN_work_alt,Tunisia,work,visa allemagne,2015,45.166666666666664,66.0
+TN_work_alt,Tunisia,work,visa allemagne,2016,47.333333333333336,202.0
+TN_work_alt,Tunisia,work,visa allemagne,2017,49.416666666666664,278.0
+TN_work_alt,Tunisia,work,visa allemagne,2018,46.083333333333336,347.0
+TN_work_alt,Tunisia,work,visa allemagne,2019,60.25,551.0
+TN_work_alt,Tunisia,work,visa allemagne,2020,35.75,401.0
+TN_work_alt,Tunisia,work,visa allemagne,2021,40.416666666666664,854.0
+TN_work_alt,Tunisia,work,visa allemagne,2022,72.41666666666667,1377.0
+TN_work_alt,Tunisia,work,visa allemagne,2023,70.5,1798.0
+TN_work_alt,Tunisia,work,visa allemagne,2024,74.91666666666667,1915.0
+TN_work_alt,Tunisia,work,visa allemagne,2025,47.25,2579.0
+TR_care,Türkiye,care,almanya hemşire,2018,16.833333333333332,2810.0
+TR_care,Türkiye,care,almanya hemşire,2019,12.5,3458.0
+TR_care,Türkiye,care,almanya hemşire,2020,11.666666666666666,2595.0
+TR_care,Türkiye,care,almanya hemşire,2021,20.333333333333332,3942.0
+TR_care,Türkiye,care,almanya hemşire,2022,23.083333333333332,6499.0
+TR_care,Türkiye,care,almanya hemşire,2023,23.583333333333332,7408.0
+TR_care,Türkiye,care,almanya hemşire,2024,14.916666666666666,6803.0
+TR_care,Türkiye,care,almanya hemşire,2025,8.916666666666666,9139.0
+TR_training,Türkiye,training,almanya ausbildung,2021,12.666666666666666,309.0
+TR_training,Türkiye,training,almanya ausbildung,2022,33.916666666666664,728.0
+TR_training,Türkiye,training,almanya ausbildung,2023,39.083333333333336,984.0
+TR_training,Türkiye,training,almanya ausbildung,2024,47.416666666666664,1117.0
+TR_training,Türkiye,training,almanya ausbildung,2025,37.75,1388.0
+TR_work,Türkiye,work,almanya iş ilanları,2015,7.75,555.0
+TR_work,Türkiye,work,almanya iş ilanları,2016,7.666666666666667,1283.0
+TR_work,Türkiye,work,almanya iş ilanları,2017,9.583333333333334,1805.0
+TR_work,Türkiye,work,almanya iş ilanları,2018,24.583333333333332,2427.0
+TR_work,Türkiye,work,almanya iş ilanları,2019,28.75,3255.0
+TR_work,Türkiye,work,almanya iş ilanları,2020,24.083333333333332,2376.0
+TR_work,Türkiye,work,almanya iş ilanları,2021,36.833333333333336,3633.0
+TR_work,Türkiye,work,almanya iş ilanları,2022,53.583333333333336,5771.0
+TR_work,Türkiye,work,almanya iş ilanları,2023,59.416666666666664,6424.0
+TR_work,Türkiye,work,almanya iş ilanları,2024,42.833333333333336,5686.0
+TR_work,Türkiye,work,almanya iş ilanları,2025,25.25,7751.0
+VN_care,Viet Nam,care,điều dưỡng đức,2015,33.583333333333336,203.0
+VN_care,Viet Nam,care,điều dưỡng đức,2016,41.916666666666664,626.0
+VN_care,Viet Nam,care,điều dưỡng đức,2017,52.333333333333336,761.0
+VN_care,Viet Nam,care,điều dưỡng đức,2018,45.75,1478.0
+VN_care,Viet Nam,care,điều dưỡng đức,2019,45.583333333333336,1637.0
+VN_care,Viet Nam,care,điều dưỡng đức,2020,42.5,1973.0
+VN_care,Viet Nam,care,điều dưỡng đức,2021,46.25,2826.0
+VN_care,Viet Nam,care,điều dưỡng đức,2022,61.666666666666664,3494.0
+VN_care,Viet Nam,care,điều dưỡng đức,2023,72.25,4611.0
+VN_care,Viet Nam,care,điều dưỡng đức,2024,70.33333333333333,3982.0
+VN_care,Viet Nam,care,điều dưỡng đức,2025,65.91666666666667,8701.0
+VN_training,Viet Nam,training,du học nghề đức,2015,0.75,141.0
+VN_training,Viet Nam,training,du học nghề đức,2016,4.833333333333333,437.0
+VN_training,Viet Nam,training,du học nghề đức,2017,6.416666666666667,500.0
+VN_training,Viet Nam,training,du học nghề đức,2018,10.083333333333334,1054.0
+VN_training,Viet Nam,training,du học nghề đức,2019,18.25,1198.0
+VN_training,Viet Nam,training,du học nghề đức,2020,16.25,1618.0
+VN_training,Viet Nam,training,du học nghề đức,2021,29.5,2315.0
+VN_training,Viet Nam,training,du học nghề đức,2022,26.75,2766.0
+VN_training,Viet Nam,training,du học nghề đức,2023,61.083333333333336,3844.0
+VN_training,Viet Nam,training,du học nghề đức,2024,53.0,3142.0
+VN_training,Viet Nam,training,du học nghề đức,2025,40.833333333333336,7010.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2015,6.083333333333333,62.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2017,28.25,261.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2018,10.916666666666666,424.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2019,22.083333333333332,439.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2020,10.833333333333334,355.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2021,15.666666666666666,511.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2022,30.416666666666668,728.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2023,63.166666666666664,767.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2024,62.166666666666664,840.0
+VN_work,Viet Nam,work,xuất khẩu lao động đức,2025,43.333333333333336,1691.0
