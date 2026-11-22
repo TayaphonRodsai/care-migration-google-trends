@@ -5,8 +5,7 @@
 MDSSB-CAP-01 Capstone Project (Fall 2026) · MSc Data Science for Society and Business · Constructor University Bremen
 Author: Tayaphon Rodsai ([@TayaphonRodsai](https://github.com/TayaphonRodsai)) · Supervisors: Prof. Erkan Gunes
 
-> **Status: analysis complete (21 Nov 2026).** Done: country selection (01), keywords + quality check (02), gtab (03, 04), RQ1 (04b), RQ2 (05), RQ3 (06).
-> Analysis done: RQ1 (04, 04b), RQ2 (05), RQ3 (06). Next: slides and report.
+> **Status: analysis complete (23 Nov 2026).** Done: country selection (01), keywords + quality check (02), gtab (03, 04), RQ1 (04b), RQ2 (05), RQ3 (06). Next: final presentation (26 Nov) and report (December).
 
 ---
 
@@ -67,9 +66,13 @@ Decisions on keywords are logged in [`docs/keyword_log.csv`](docs/keyword_log.cs
 | 05 | [Searches vs. permits (RQ2)](notebooks/05_rq2_searches_vs_permits.ipynb) | ✅ done |
 | 06 | [Germany vs. other destinations (RQ3)](notebooks/06_rq3_destinations.ipynb) | 🔄 first results (care, 4 countries) |
 
-### First results (RQ2)
+### Main results
 
-Yearly searches and first permits (2015–2025) move together: pooled **r = 0.54** over 18 keywords. Robustness tests (yearly changes, year fixed effects, placebo with other countries' permits, a second Google sample) show that much of this is a **trend shared by all countries**. A clear country-specific link appears mainly for **Ausbildung** searches.
+**RQ1 – Fix (Notebooks 03, 04, 04b).** Each country's keywords were calibrated with `gtab` and divided by a common reference search (YouTube; the topic *Germany* as a check). The country ranking is almost the same with both references (Spearman 0.78–0.92 for care, training and work), so cross-country comparisons are robust. Comparisons over time need care: YouTube searches fell 43–69% between 2015 and 2021. Keyword check: 18 of 20 final keywords appear in Google's related-query lists or were confirmed by a native speaker.
+
+**RQ2 – Check (Notebook 05).** Yearly searches and first permits (2015–2025) move together: pooled **r = 0.54** over 18 keywords. Robustness tests (yearly changes, year fixed effects, placebo with other countries' permits, a second Google sample) show that much of this is a **trend shared by all countries**. A clear country-specific link appears mainly for **Ausbildung** searches.
+
+**RQ3 – Compare (Notebook 06).** Nursing searches for Germany vs. Canada, the UK, Australia and Japan (Philippines, India, Viet Nam, Indonesia; Jan 2022 – Oct 2026). After the March 2024 reform step, Germany gained relative to the other destinations in the Philippines, India and Indonesia (difference-in-differences +0.34 to +0.51 log points), but not in Viet Nam. The checks show that this cannot be attributed to the reforms: India and Indonesia already had a rising trend before, the Philippine result depends on Canada and the UK falling, and with a time trend no country shows a significant jump.
 
 ## Repository structure
 
