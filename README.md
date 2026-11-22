@@ -5,7 +5,7 @@
 MDSSB-CAP-01 Capstone Project (Fall 2026) · MSc Data Science for Society and Business · Constructor University Bremen
 Author: Tayaphon Rodsai ([@TayaphonRodsai](https://github.com/TayaphonRodsai)) · Supervisors: Prof. Erkan Gunes
 
-> **Status: analysis complete (23 Nov 2026).** Done: country selection (01), keywords + quality check (02), gtab (03, 04), RQ1 (04b), RQ2 (05), RQ3 (06). Next: final presentation (26 Nov) and report (December).
+> **Status: analysis complete (22 Nov 2026).** Done: country selection (01), keywords + quality check (02), gtab (03, 04), RQ1 (04b), RQ2 (05), RQ3 (06). Next: final presentation (24 Nov) and report (21 Dec).
 
 ---
 
