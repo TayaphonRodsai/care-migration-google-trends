@@ -5,8 +5,8 @@
 MDSSB-CAP-01 Capstone Project (Fall 2026) · MSc Data Science for Society and Business · Constructor University Bremen
 Author: Tayaphon Rodsai ([@TayaphonRodsai](https://github.com/TayaphonRodsai)) · Supervisors: Prof. Erkan Gunes
 
-> **Status: work in progress (14 Nov 2026).** Done: country selection (01), keyword discovery rounds 1–2 (02), gtab test (03), searches vs. permits (RQ2, 05).
-> Now: gtab calibration country by country (04, Viet Nam done). Next: policy comparison (RQ3, 06).
+> **Status: analysis complete (21 Nov 2026).** Done: country selection (01), keywords + quality check (02), gtab (03, 04), RQ1 (04b), RQ2 (05), RQ3 (06).
+> Analysis done: RQ1 (04, 04b), RQ2 (05), RQ3 (06). Next: slides and report.
 
 ---
 
@@ -62,9 +62,10 @@ Decisions on keywords are logged in [`docs/keyword_log.csv`](docs/keyword_log.cs
 | 01 | [Country selection](notebooks/01_country_selection.ipynb) | ✅ done |
 | 02 | [Keyword discovery](notebooks/02_keywords.ipynb) | ✅ done — 20 final keywords |
 | 03 | [gtab test](notebooks/03_gtab_test.ipynb) | ✅ done |
-| 04 | [Calibration with `gtab` (RQ1)](notebooks/04_gtab_calibration.ipynb) | 🔄 Viet Nam done, one country per day |
+| 04 | [Calibration with `gtab` (RQ1)](notebooks/04_gtab_calibration.ipynb) | ✅ all 9 countries |
+| 04b | [Comparing countries (RQ1)](notebooks/04b_rq1_compare_countries.ipynb) | ✅ done (9 countries) |
 | 05 | [Searches vs. permits (RQ2)](notebooks/05_rq2_searches_vs_permits.ipynb) | ✅ done |
-| 06 | Policy comparison (RQ3) | planned |
+| 06 | [Germany vs. other destinations (RQ3)](notebooks/06_rq3_destinations.ipynb) | 🔄 first results (care, 4 countries) |
 
 ### First results (RQ2)
 

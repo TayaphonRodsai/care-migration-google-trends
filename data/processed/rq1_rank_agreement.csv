@@ -1,0 +1,10 @@
+theme,year,countries,spearman
+care,2019,4,0.8
+care,2022,4,0.8
+care,2025,4,0.8
+training,2019,5,0.9
+training,2022,7,0.86
+training,2025,7,0.86
+work,2019,9,0.85
+work,2022,9,0.92
+work,2025,9,0.78

@@ -1,0 +1,21 @@
+code,destination,term,mean,zero_share,decision
+ID,australia,perawat australia,4.0,41.0,excluded: too rare (41% zero months)
+ID,canada,perawat kanada,0.0,100.0,excluded: too rare (100% zero months)
+ID,germany,perawat jerman,12.0,3.0,kept
+ID,japan,perawat jepang,50.0,0.0,kept
+ID,uk,perawat inggris,49.0,0.0,"excluded: related queries are about the English language, not the UK"
+IN,australia,nurse australia,39.0,0.0,kept
+IN,canada,nurse canada,34.0,0.0,kept
+IN,germany,nurse germany,25.0,0.0,kept
+IN,japan,nurse japan,25.0,0.0,kept
+IN,uk,nurse UK,52.0,0.0,kept
+PH,australia,nurse australia,41.0,0.0,kept
+PH,canada,nurse canada,51.0,0.0,kept
+PH,germany,nurse germany,22.0,0.0,kept
+PH,japan,nurse japan,33.0,0.0,kept
+PH,uk,nurse UK,46.0,0.0,kept
+VN,australia,điều dưỡng úc,8.0,34.0,kept
+VN,canada,điều dưỡng canada,0.0,93.0,excluded: too rare (93% zero months)
+VN,germany,điều dưỡng đức,70.0,0.0,kept
+VN,japan,điều dưỡng nhật,34.0,0.0,kept
+VN,uk,điều dưỡng anh quốc,5.0,52.0,excluded: too rare (52% zero months)

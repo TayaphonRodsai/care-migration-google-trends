@@ -1,0 +1,10 @@
+RQ3 comparison downloads
+Source: Google Trends Explore (trends.google.com), search term, web search, all categories
+Period: 1 Jan 2022 - 31 Oct 2026, monthly values. One request per origin country with 5 destinations (same 0-100 scale).
+Downloaded: 20 Nov 2026 by Tayaphon Rodsai
+
+file         | origin      | terms (Germany, Canada, UK, Australia, Japan)                                           | notes
+PH_care.csv  | Philippines | nurse germany, nurse canada, nurse uk, nurse australia, nurse japan                     | file starts Dec 2021 (dropped in Notebook 06); 1 zero month (Germany, Dec 2021)
+IN_care.csv  | India       | nurse germany, nurse canada, nurse uk, nurse australia, nurse japan                     | "nurse + country" as PH; NB02 seed "nursing jobs in germany" too rare (57% zeros since 2022); related queries show "nurse salary in germany"; starts Dec 2021 (dropped); no zeros
+VN_care.csv  | Viet Nam    | điều dưỡng đức, điều dưỡng canada, điều dưỡng anh quốc, điều dưỡng úc, điều dưỡng nhật | downloaded twice: "anh" -> "anh quốc" (avg fell 57 -> 5; "anh" also means English / older brother), "nhật bản" -> "nhật" (usual short form); old file replaced. Canada 54/58 zero months, UK 30/58, Australia 20/58
+ID_care.csv  | Indonesia   | perawat jerman, perawat kanada, perawat inggris, perawat australia, perawat jepang       | Canada 58/58 zero months, Australia 24/58; UK excluded: related queries of "perawat inggris" are about the English language (bahasa inggris, translate), not the UK

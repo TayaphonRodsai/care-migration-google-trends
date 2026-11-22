@@ -1,0 +1,21 @@
+country,theme,keyword,level,native_speaker
+India,training,ausbildung in germany,- own data only,False
+Philippines,work,jobs in germany,- own data only,False
+Viet Nam,work,xuất khẩu lao động đức,- own data only,False
+Bosnia and Herzegovina,work,posao u njemačkoj,1 topic Germany list,False
+Cameroon,work,visa allemagne,1 topic Germany list,False
+India,work,jobs in germany,1 topic Germany list,False
+Morocco,training,ausbildung,1 topic Germany list,False
+Morocco,work,visa allemagne,1 topic Germany list,False
+Tunisia,training,ausbildung,1 topic Germany list,False
+Tunisia,work,visa allemagne,1 topic Germany list,False
+Türkiye,work,almanya iş ilanları,1 topic Germany list,True
+Cameroon,training,ausbildung,2 other related list,False
+Indonesia,care,perawat jerman,2 other related list,True
+Indonesia,training,ausbildung jerman,2 other related list,True
+Indonesia,work,kerja di jerman,2 other related list,True
+Philippines,care,nurse germany,2 other related list,False
+Viet Nam,care,điều dưỡng đức,2 other related list,False
+Viet Nam,training,du học nghề đức,2 other related list,False
+Türkiye,care,almanya hemşire,3 native speaker only,True
+Türkiye,training,almanya ausbildung,3 native speaker only,True
